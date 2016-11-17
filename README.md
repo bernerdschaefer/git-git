@@ -10,3 +10,12 @@ git: 'git' is not a git command. See 'git --help'.
 Did you mean this?
 	init
 ```
+
+## Install
+
+Copy `git-git` onto your shell's path, add it to your dotfiles, or install
+with Homebrew:
+
+```
+$ brew install bernerdschaefer/formulae/git-git
+```
